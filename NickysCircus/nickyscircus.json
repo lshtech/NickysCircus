@@ -1,0 +1,16 @@
+{
+	"id": "nickyscircus",
+	"name": "nickyscircus",
+	"display_name": "Nicky's Circus",
+	"author": ["Nicky"],
+	"description": "",
+	"prefix": "nicky",
+	"main_file": "main.lua",
+	"priority": 1,
+	"badge_colour": "006A00",
+	"badge_text_colour": "FBA105",
+	"version": "0.0.1",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1206c)"
+	]
+}
