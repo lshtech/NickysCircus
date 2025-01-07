@@ -29,6 +29,26 @@ return {
           "{C:inactive}(Currently at {X:red,C:white}X#1#{C:inactive} Mult)"
 				},
 			},
+			["j_nicky_cross_joker"] = {
+				["name"] = "Cross Joker",
+				["text"] = {
+          "Debuffed Cards score {C:mult}+#1#{} Mult when scored.",
+				},
+			},
+			["j_nicky_spirit"] = {
+				["name"] = "Spirit",
+				["text"] = {
+          "Sell this Joker to get up to 3 {C:spectral}Spectral{} cards (Must have room).",
+				},
+			},
+			["j_nicky_golden_scissors"] = {
+				["name"] = "Golden Scissors",
+				["text"] = {
+          "When blind is selected, destroy the Joker to the right",
+					"and permanently add 10 times it's sell value to its {C:chips}Chips{}",
+					"{C:inactive}(Currently at {}{C:chips}#1#{}{C:inactive} Chips).{}",
+				},
+			},
 		},
 	},
 }
